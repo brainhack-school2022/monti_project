@@ -43,7 +43,7 @@ The dataset comes from Desmartaux et al., 2021 and is access restricted. It incl
 completed a fMRI scanning session where they received hypnosis suggestions. Suggestions were divided in neutral, hypoalgesic and hyperalgesic suggestion.
 After the verbal suggestions, a series of either 6 or 9 painful stimuli were administered. 
 
-				     ![](protocole_desmartaux2021.png)	
+![Protocole](protocole_desmartaux2021.png)	
 				     
 In total, each participant received 72 electrical shocks. A part one participant that received 60 electrical shocks. 
 Consequently, the final data set included 23 participants for a total of 1644 trials/shocks across all participants.

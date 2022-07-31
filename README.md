@@ -64,3 +64,17 @@ The excel with the pain ratings for each participants can be found at [Hypnosis_
 ### Actual Deliverables
 * [ML_Project_Hypnosis.ipynb](https://github.com/brainhack-school2022/monti_project/blob/main/ML_Project_Hypnosis.ipynb) : script with the machine learning algorithm. 
 * The Jupyter notebook with the data visualization need to be add.
+
+## GLM
+ 
+A General Linear Model, for which the code can be found [here](https://github.com/dylansutterlin/decoding_pain_experience), was applied to generate contrast maps.
+
+Here some beta mapas visualization.
+![](2D plot beta maps.JPG) alt="1" 
+![](3D plot beta maps.JPG)
+
+
+## Regression models
+
+A regression algorithm combined with a principal component analysis (PCA) was used to determine if it is possible to predict pain intensity rating from fMRI data. A ([`Lasso`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html) regression algorithms was applied. The models were trained on the first dataset using a 5-fold cross-validation procedure and tested on the second dataset. The following parameters were used: `GroupShuffleSplit(n_splits = 5, test_size = 0.3, n_components=0.80, random_seed=42)`.
+

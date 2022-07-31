@@ -48,7 +48,7 @@ After the verbal suggestions, a series of either 6 or 9 painful stimuli were adm
 				     
 In total, each participant received 72 electrical shocks. A part one participant that received 60 electrical shocks. 
 Consequently, the final data set included 23 participants for a total of 1644 trials/shocks across all participants.
-The excel with the pain ratings for each participants can be found here <br> [Hypnosis_Pain_ratings.xlsx] (https://github.com/brainhack-school2022/monti_project/blob/main/Hypnosis_Pain_ratings.xlsx). 
+The excel with the pain ratings for each participants can be found at [Hypnosis_Pain_ratings.xlsx](https://github.com/brainhack-school2022/monti_project/blob/main/Hypnosis_Pain_ratings.xlsx). 
 
 ## Deliverables
 
@@ -62,5 +62,5 @@ The excel with the pain ratings for each participants can be found here <br> [Hy
 ## Overview
 
 ### Actual Deliverables
-* <br>[ML_Project_Hypnosis.ipynb] (https://github.com/brainhack-school2022/monti_project/blob/main/ML_Project_Hypnosis.ipynb) : script with the machine learning algorithm. 
+* [ML_Project_Hypnosis.ipynb](https://github.com/brainhack-school2022/monti_project/blob/main/ML_Project_Hypnosis.ipynb) : script with the machine learning algorithm. 
 * The Jupyter notebook with the data visualization need to be add.

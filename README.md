@@ -73,7 +73,7 @@ The excel with the pain ratings for each participants can be found at [Hypnosis_
  
 A General Linear Model, for which the code can be found [here](https://github.com/dylansutterlin/decoding_pain_experience), was applied to generate contrast maps.
 
-Here some beta mapas visualization.
+Here some beta maps visualization:
 				     
 <p align="center">
 <img src="https://github.com/brainhack-school2022/monti_project/blob/main/3D%20plot%20beta%20maps.JPG" alt="1" width="300px"/>

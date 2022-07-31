@@ -113,4 +113,4 @@ For any question and/or comments contact me at ilaria.monti@umontreal.ca.
 Desmarteaux, C., & Rainville, P. (2021). Brain Responses to Hypnotic Verbal Suggestions Predict Pain Modulation. Frontiers in Pain Research, 2, 18.
 Franz, M., Schmidt, B., Hecht, H., Naumann, E., & Miltner, W. H. R. (2021). Suggested visual blockade during hypnosis : Top-down modulation of stimulus processing in a visual oddball task. PloS One, 16(9), e0257380. https://doi.org/10.1371/journal.pone.0257380
 
-Wiech K. Deconstructing the sensation of pain: the influence of cognitive processes on pain perception. Science. (2016) 354:584–7. doi: 10.1126/science.aaf8934
+Wiech K. Deconstructing the sensation of pain: the influence of cognitive processes on pain perception. Science. (2016) 354:584–7. doi:https://10.1126/science.aaf8934

@@ -20,7 +20,7 @@ Pain is a multi-dimensional experience involving the activation of sensory, limb
 
 The aim of this project was to predict pain intensity ratings from fMRI brain images.
 <p align="center">
-[https://github.com/brainhack-school2022/monti_project/blob/main/3D%20plot%20beta%20maps.JPG](https://github.com/brainhack-school2022/monti_project/blob/main/Machine%20Learning.JPG)"
+<img src="https://github.com/brainhack-school2022/monti_project/blob/main/Machine%20Learning.JPG">
 </p>				     
 
 

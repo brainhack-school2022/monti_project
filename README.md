@@ -91,7 +91,8 @@ Here the results:
 <p align="center">
 <img src="https://github.com/brainhack-school2022/monti_project/blob/main/Result_ML.JPG">									
 </p>
-The regression model computed on the first dataset performed very poorly on the test set (second dataset). An R Pearson close to zero means that the model doesn’t fit the data. A R2 negative means that the model was worst that the chance to predict the results. It is possible that computing two different model, one for each condition, it will be possible to achieve a better result. 
+The regression model computed on the first dataset performed very poorly on the test set (second dataset). A Pearson R close to zero means that the model doesn’t fit the data. A R2 negative means that the model was worst that the chance in predicting the ratings. It is possible that computing two different model, one for each condition, it will be possible to achieve a better result. 
+
 
 ## Conclusion
 

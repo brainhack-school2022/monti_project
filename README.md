@@ -72,11 +72,11 @@ A General Linear Model, for which the code can be found [here](https://github.co
 Here some beta mapas visualization.
 				     
 <p align="center">
-<img src="https://github.com/brainhack-school2022/monti_project/blob/main/3D%20plot%20beta%20maps.JPG" width="400px"/>
+<img src="https://github.com/brainhack-school2022/monti_project/blob/main/3D%20plot%20beta%20maps.JPG" alt="1" width="200px"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/brainhack-school2022/monti_project/blob/main/2D%20plot%20beta%20maps.JPG" width="400px"/>
+<img src="https://github.com/brainhack-school2022/monti_project/blob/main/2D%20plot%20beta%20maps.JPG" alt="2" width="400px"/>
 </p>
 
 ## Regression models

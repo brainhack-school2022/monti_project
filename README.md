@@ -62,4 +62,4 @@ The excel with the pain ratings for each participants can be found at the follow
 ## Overview
 
 ### Actual Deliverables
-* 
+* [ML_Project_Hypnosis.ipynb] 

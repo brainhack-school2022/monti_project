@@ -41,10 +41,25 @@ For the completion of this project, I used the following tool:
 
 The dataset comes from Desmartaux et al., 2021 and is access restricted. It includes 24 participants (13 women and 11 males) and mean age is 26.9. But I had to exclude one participant since no pain rating was present. Participants
 completed a fMRI scanning session where they received hypnosis suggestions. Suggestions were divided in neutral, hypoalgesic and hyperalgesic suggestion.
-After the verbal suggestions, a series of either 6 or 9 painful stimuli were administered. 
+After the verbal suggestions, a series of either 6 or 9 painful stimuli were administered.
 
-![Protocole](protocole_desmartaux2021.png)	
+
+![protocole_desmartaux2021](protocole_desmartaux2021.png)	
 				     
 In total, each participant received 72 electrical shocks. A part one participant that received 60 electrical shocks. 
 Consequently, the final data set included 23 participants for a total of 1644 trials/shocks across all participants.
 The excel with the pain ratings for each participants can be found at the following link: https://github.com/brainhack-school2022/monti_project/blob/main/Hypnosis_Pain_ratings.xlsx. 
+
+## Deliverables
+
+* Jupyter notebook for the Machine learning pipeline
+* Jupyter notebook for visualizing the data and the results
+* MarkDown README.md containing information about the project
+* Github repository providing the scripts, graphs, report and relevant information
+
+
+# Results
+## Overview
+
+### Actual Deliverables
+* 

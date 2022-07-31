@@ -19,6 +19,10 @@ Pain is a multi-dimensional experience involving the activation of sensory, limb
 
 
 The aim of this project was to predict pain intensity ratings from fMRI brain images.
+<p align="center">
+<img src="[https://github.com/brainhack-school2022/monti_project/blob/main/3D%20plot%20beta%20maps.JPG](https://github.com/brainhack-school2022/monti_project/blob/main/Machine%20Learning.JPG)" alt="1" width="300px"/>
+</p>				     
+
 
 **Personal goals**
 * Apply machine learning to neuroimaging data :heavy_check_mark:
@@ -72,7 +76,7 @@ A General Linear Model, for which the code can be found [here](https://github.co
 Here some beta mapas visualization.
 				     
 <p align="center">
-<img src="https://github.com/brainhack-school2022/monti_project/blob/main/3D%20plot%20beta%20maps.JPG" alt="1" width="200px"/>
+<img src="https://github.com/brainhack-school2022/monti_project/blob/main/3D%20plot%20beta%20maps.JPG" alt="1" width="300px"/>
 </p>
 
 <p align="center">

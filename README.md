@@ -6,7 +6,7 @@
 
 ## personal background
 <a href="https://github.com/ilariam9">
-   <br /><sub><b>Dylan Suttelrin-Guindon</b></sub>
+   <br /><sub><b>Ilaria Monti</b></sub>
 </a>
 Education :
   * PhD student in Kinesiology and Physical Activity Science at University of Montreal

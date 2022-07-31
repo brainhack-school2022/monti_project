@@ -87,3 +87,29 @@ Here some beta mapas visualization.
 
 A regression algorithm combined with a principal component analysis (PCA) was used to determine if it is possible to predict pain intensity rating from fMRI data. A ([`Lasso`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html) regression algorithms was applied. The models were trained on the first dataset using a 5-fold cross-validation procedure and tested on the second dataset. The following parameters were used: `GroupShuffleSplit(n_splits = 5, test_size = 0.3, n_components=0.80, random_seed=42)`.
 
+Here the results:
+<p align="center">
+<img src="https://github.com/brainhack-school2022/monti_project/blob/main/Result_ML.JPG">									
+</p>
+The regression model computed on the first dataset performed very poorly on the test set (second dataset). An R Pearson close to zero means that the model doesn’t fit the data. A R2 negative means that the model was worst that the chance to predict the results. It is possible that computing two different model, one for each condition, it will be possible to achieve a better result. 
+
+## Conclusion
+
+My personal goals were reached. Independently of the result, I could run my first machine learning model and understand better the logic behind it. Moreover, I learned new techniques of data visualization and I improved my skills in coding. 
+
+This is just the beginning of my journey with python. I will continue coding and analysing fMRI data. To this aim, my future goal is to apply machine learning to the fMRI data that I’m going to obtain during my PhD, and try to to predict pain and effort perception rating. 
+
+
+## Acknowledgement
+
+I would like to thank Pierre Bellec for organizing such useful course and all the instructors for the support. I would especially thank Marie-Eve for the immense patience in explaining what I was not understanding and Dylan to accept me as part of the team.  
+
+
+For any question and/or comments contact me at ilaria.monti@umontreal.ca.
+
+## References
+
+Desmarteaux, C., & Rainville, P. (2021). Brain Responses to Hypnotic Verbal Suggestions Predict Pain Modulation. Frontiers in Pain Research, 2, 18.
+Franz, M., Schmidt, B., Hecht, H., Naumann, E., & Miltner, W. H. R. (2021). Suggested visual blockade during hypnosis : Top-down modulation of stimulus processing in a visual oddball task. PloS One, 16(9), e0257380. https://doi.org/10.1371/journal.pone.0257380
+
+Wiech K. Deconstructing the sensation of pain: the influence of cognitive processes on pain perception. Science. (2016) 354:584–7. doi: 10.1126/science.aaf8934
